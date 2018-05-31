@@ -1,7 +1,0 @@
-/**
- * 
- */
-/**
- *
- */
-package pw.jmct.placeholder;
